@@ -1,0 +1,9 @@
+ru/andrey/config/WebConfig.class
+ru/andrey/service/UserServiceImpl.class
+ru/andrey/dao/UserDao.class
+ru/andrey/models/User.class
+ru/andrey/controllers/UsersController.class
+ru/andrey/config/AppInit.class
+ru/andrey/service/UserService.class
+ru/andrey/dao/UserDaoImpl.class
+ru/andrey/config/AppConfig.class
