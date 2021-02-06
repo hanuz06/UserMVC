@@ -18,7 +18,7 @@ public class UserServiceImpl implements UserService {
 
     @Transactional
     @Override
-    public void addUser(User user) {
+    public void addUser(User user) throws Exception {
         userDaoImpl.addUser(user);
     }
 

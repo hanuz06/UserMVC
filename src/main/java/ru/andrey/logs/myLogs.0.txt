@@ -1,0 +1,14 @@
+Feb 06, 2021 1:55:32 PM ru.andrey.dao.UserDaoImpl addUser
+INFO: User has been added
+Feb 06, 2021 1:55:32 PM ru.andrey.dao.UserDaoImpl listUsers
+INFO: User list has been returned
+Feb 06, 2021 2:19:48 PM ru.andrey.dao.UserDaoImpl getUser
+INFO: User has been found and returned
+Feb 06, 2021 2:19:49 PM ru.andrey.dao.UserDaoImpl getUser
+INFO: User has been found and returned
+Feb 06, 2021 2:19:50 PM ru.andrey.dao.UserDaoImpl getUser
+INFO: User has been found and returned
+Feb 06, 2021 2:19:50 PM ru.andrey.dao.UserDaoImpl deleteUser
+INFO: User has been deleted
+Feb 06, 2021 2:19:50 PM ru.andrey.dao.UserDaoImpl listUsers
+INFO: User list has been returned

@@ -40,7 +40,7 @@ public class UsersController {
     }
 
     @PostMapping("/users")
-    public String addUser(@ModelAttribute("user") User user){
+    public String addUser(@ModelAttribute("user") User user) throws Exception{
         if(user.getId()==null){
             userService.addUser(user);
         }else {
